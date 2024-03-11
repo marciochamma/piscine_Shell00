@@ -1,0 +1,1 @@
+git ls-files -o -m -i --exclude-standard
